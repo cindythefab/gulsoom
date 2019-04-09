@@ -330,7 +330,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Hyerin",
-    img: "4GW8oyO.jpg",
+    img: "g3CWP0F.jpg",
     opts: {
       series: ["IDOL"],
       stage: []
